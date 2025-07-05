@@ -85,24 +85,17 @@
 </p>
 
 <p>
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash199699&theme=dark" alt="akash199699" /> -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash199699&theme=dark" alt="akash199699" />
 </p>
 
-
----
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=akash199699&show_icons=true&theme=tokyonight" /> -->
 </p>
 
----
-
-
 <p align="center">
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=akash199699&theme=algolia&row=1" /> -->
 </p>
-
----
 
 <p align="center">
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash199699&theme=react-dark" /> -->
