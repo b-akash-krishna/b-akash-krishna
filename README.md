@@ -9,6 +9,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=akash199699&label=Profile%20views&color=0e75b6&style=flat" alt="akash199699" />
 </p>
+
 ---
 
 - 🎓 B.Tech undergraduate specializing in **Artificial Intelligence & Machine Learning** at MACE, Kothamangalam  
