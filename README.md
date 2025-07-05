@@ -3,9 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/akash199699" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AIML+Engineer+%7C+Software+Developer;Python+%7C+AI+%7C+ML+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFD5&center=true&vCenter=true&width=800&lines=Aspiring+AI+%26+ML+Engineer+%7C+Software+Developer;Passionate+about+AI%2C+ML%2C+and+Python;Building+Smart+Applications+%7C+Solving+Real-World+Problems;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 ---
@@ -45,13 +46,13 @@
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
-  </a> 
+<!--   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> 
   </a> 
   <a href="https://gradio.app/" target="_blank" rel="noreferrer"> 
     <img src="https://gradio.app/assets/img/logo.svg" alt="Gradio" width="40" height="40"/> 
-  </a> 
+  </a>  -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> 
   </a> 
