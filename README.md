@@ -10,12 +10,12 @@
 
 ---
 
-- 🎓 B.Tech Undergrad specializing in **AI & ML** at MACE, Kothamangalam  
-- 🔭 Currently working on **AI-powered projects and Smart Applications**  
-- 👯 Looking to collaborate on **AI, ML, Python, and full-stack development projects**  
-- 💬 Ask me about **Python, Machine Learning, AI project development, or classic AI-enhanced games**  
-- ⚡ Fun fact: **I love applying AI to real-world problems, even games like Snake!**
-- 📫 Reach me at: [akash199699@gmail.com](mailto:akash199699@gmail.com)
+- 🎓 B.Tech undergraduate specializing in **Artificial Intelligence & Machine Learning** at MACE, Kothamangalam  
+- 💡 Passionate about solving real-world problems with AI, data, and software engineering  
+- 🛠️ Hands-on experience in building AI-powered applications and full-stack solutions  
+- 👨‍💻 Strong foundation in **Python, Machine Learning**, and modern development tools  
+- 🤝 Actively seeking opportunities to collaborate on impactful AI, ML, or software projects  
+- 📫 Let's connect: [akash199699@gmail.com](mailto:akash199699@gmail.com)  
 <p>
 <!--   📫 <a href="mailto:akash199699@gmail.com"><img src="https://img.shields.io/badge/Email-akash199699@gmail.com-red?style=flat-square&logo=gmail"></a> -->
 </p>
