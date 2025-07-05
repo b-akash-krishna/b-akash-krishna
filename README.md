@@ -13,9 +13,10 @@
 - 🔭 Currently working on **AI-powered projects and Smart Applications**  
 - 👯 Looking to collaborate on **AI, ML, Python, and full-stack development projects**  
 - 💬 Ask me about **Python, Machine Learning, AI project development, or classic AI-enhanced games**  
-- ⚡ Fun fact: **I love applying AI to real-world problems, even games like Snake!**  
+- ⚡ Fun fact: **I love applying AI to real-world problems, even games like Snake!**
+- 📫 Reach me at: [akash199699@gmail.com](mailto:akash199699@gmail.com)
 <p>
-  📫 <a href="mailto:akash199699@gmail.com"><img src="https://img.shields.io/badge/Email-akash199699@gmail.com-red?style=flat-square&logo=gmail"></a>
+<!--   📫 <a href="mailto:akash199699@gmail.com"><img src="https://img.shields.io/badge/Email-akash199699@gmail.com-red?style=flat-square&logo=gmail"></a> -->
 </p>
 
 
