@@ -3,9 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/akash199699" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AIML+Engineer+%7C+Software+Developer;Python+%7C+AI+%7C+ML+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AIML+Engineer+%7C+Software+Developer;Python+%7C+AI+%7C+ML+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
   </a>
 </p>
+
 
 ---
 
