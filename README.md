@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Akash Krishna</h1>
 <h3 align="center">An Aspiring AIML Engineer and Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash199699&label=Profile%20views&color=0e75b6&style=flat" alt="akash199699" /> </p>
+<p align="center">
+  <a href="https://github.com/akash199699" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AIML+Engineer+%7C+Software+Developer;Python+%7C+AI+%7C+ML+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 - 🎓 B.Tech Undergrad specializing in **AI & ML** at MACE, Kothamangalam  
 - 🔭 Currently working on **AI-powered projects and Smart Applications**  
 - 👯 Looking to collaborate on **AI, ML, Python, and full-stack development projects**  
 - 💬 Ask me about **Python, Machine Learning, AI project development, or classic AI-enhanced games**  
-- ⚡ Fun fact: **I love applying AI to real-world problems, even to games like Snake!**  
+- ⚡ Fun fact: **I love applying AI to real-world problems, even games like Snake!**  
 - 📫 How to reach me: **akash199699@gmail.com**  
 
 ---
@@ -15,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/akash199699/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-krishna" height="30" width="40" /></a>
-<a href="https://instagram.com/akash__1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash__1996" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_b_akash_?igsh=MTluc3JwNnZ6eTd4Nw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash__1996" height="30" width="40" /></a>
 <a href="https://leetcode.com/akash199699/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash199699" height="30" width="40" /></a>
 </p>
 
@@ -38,13 +44,24 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash199699&show_icons=true&locale=en&layout=compact" alt="akash199699" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash199699&theme=dark" alt="akash199699" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akash199699&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## 🐍 Snake Contribution Animation
+## 🏆 GitHub Trophies
 
-<img src="https://raw.githubusercontent.com/akash199699/akash199699/output/github-snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akash199699&theme=algolia&row=1" />
+</p>
 
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash199699&theme=react-dark" />
+</p>
