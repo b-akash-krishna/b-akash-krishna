@@ -90,7 +90,6 @@
 
 
 ---
-## 📊 GitHub Stats
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=akash199699&show_icons=true&theme=tokyonight" /> -->
@@ -98,15 +97,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
 <p align="center">
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=akash199699&theme=algolia&row=1" /> -->
 </p>
 
 ---
-
-## 📈 Contribution Activity Graph
 
 <p align="center">
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash199699&theme=react-dark" /> -->
