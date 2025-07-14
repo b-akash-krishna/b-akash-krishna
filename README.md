@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Krishna</h1>
 <h3 align="center">An Aspiring AIML Engineer and Software Developer</h3>
 <p align="center">
-  <a href="http://github.com/b-akash-krishna">
+  <a href="http://github.com/b-akash-krishna"  target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=AIML+Engineer+%7C+Software+Developer;Python+%7C+AI+%7C+ML+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
   </a>
 </p>
@@ -17,7 +17,7 @@
 - 🛠️ Hands-on experience in building AI-powered applications and full-stack solutions  
 - 👨‍💻 Strong foundation in **Python, Machine Learning**, and modern development tools  
 - 🤝 Actively seeking opportunities to collaborate on impactful AI, ML, or software projects  
-- 📫 Let's connect: [akash199699@gmail.com](mailto:akash199699@gmail.com)
+- 📫 Let's connect: [b.akashkrishna27@gmail.com](mailto:b.akashkrishna27@gmail.com)
 
 <p>
 <!--   📫 <a href="mailto:akash199699@gmail.com"><img src="https://img.shields.io/badge/Email-akash199699@gmail.com-red?style=flat-square&logo=gmail"></a> -->
