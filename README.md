@@ -13,19 +13,13 @@
 
 ---
 
-🎓 B.Tech undergraduate specializing in Artificial Intelligence & Machine Learning at MACE, Kothamangalam
-
-💡 Passionate about solving real-world problems with AI, data, and software engineering
-
-🛠️ Hands-on experience in building AI-powered applications and full-stack solutions
-
-👨‍💻 Strong foundation in Python, Machine Learning, and modern development tools
-
-🤝 Actively seeking opportunities to collaborate on impactful AI, ML, or software projects
-
-📫 Let's connect: b.akashkrishna27@gmail.com
-
-🌐 Explore all my work, projects, and profiles: linktr.ee/b_akash_krishna
+- 🎓 B.Tech undergraduate specializing in **Artificial Intelligence & Machine Learning** at MACE, Kothamangalam  
+- 💡 Passionate about solving real-world problems with AI, data, and software engineering  
+- 🛠️ Hands-on experience in building AI-powered applications and full-stack solutions  
+- 👨‍💻 Strong foundation in **Python, Machine Learning**, and modern development tools  
+- 🤝 Actively seeking opportunities to collaborate on impactful AI, ML, or software projects  
+- 📫 Let's connect: [b.akashkrishna27@gmail.com](mailto:b.akashkrishna27@gmail.com)  
+- 🌐 Explore all my work, projects, and profiles: [https://linktr.ee/b_akash_krishna](https://linktr.ee/b_akash_krishna)
 
 <p>
 <!--   📫 <a href="mailto:akash199699@gmail.com"><img src="https://img.shields.io/badge/Email-akash199699@gmail.com-red?style=flat-square&logo=gmail"></a> -->
