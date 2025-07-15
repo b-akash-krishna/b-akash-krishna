@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="centre">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=b-akash-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="b-akash-krishna" align="centre" />
 <!--   <img src="https://komarev.com/ghpvc/?username=akash199699&label=Profile%20views&color=0e75b6&style=flat" alt="b-akash-krishna" /> -->
 </p>
