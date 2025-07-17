@@ -84,11 +84,11 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-akash-krishna&show_icons=true&locale=en&layout=compact" alt="akash199699" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-akash-krishna&show_icons=true&locale=en&layout=compact" alt="b-akash-krishna" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-akash-krishna&theme=dark" alt="akash199699" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-akash-krishna&theme=dark" alt="b-akash-krishna" />
 </p>
 
 
