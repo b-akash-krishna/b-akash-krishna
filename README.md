@@ -97,10 +97,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=b_akashkrishna&theme=algolia&row=1" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=b-akash-krishna&theme=algolia&row=1" /> -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b-akash-krishna&theme=react-dark" />
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b-akash-krishna&theme=react-dark" /> -->
 </p>
 
