@@ -93,14 +93,14 @@
 
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=akash199699&show_icons=true&theme=tokyonight" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=b-akash-krishna&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=akash199699&theme=algolia&row=1" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=b-akash-krishna&theme=algolia&row=1" />
 </p>
 
 <p align="center">
-<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash199699&theme=react-dark" /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b-akash-krishna&theme=react-dark" />
 </p>
 
