@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b-akash-krishna&show_icons=true&theme=cobalt" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b-akash-krishna&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
 </p>
 
 <!-- Optional Add-ons -->
