@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=b-akash-krishna&base=1000&label=Profile%20visits&color=blueviolet&style=flat&abbreviated=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=b-akash-krishna&base=1000&label=PROFILE%20VIEWS&color=blueviolet&style=flat&abbreviated=true" alt="Profile Views" />
 </p>
 
 ---
