@@ -59,11 +59,11 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-akash-krishna&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Langs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-akash-krishna&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b-akash-krishna&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b-akash-krishna&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
 </p>
 
 <!-- Optional Add-ons -->
