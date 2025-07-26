@@ -59,7 +59,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-akash-krishna&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-akash-krishna&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Langs" />
 </p>
 
 <p align="center">
