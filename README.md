@@ -56,15 +56,15 @@
 
 ---
 
-### 📊 GitHub Stats
+<!-- <p> ### 📊 GitHub Stats </p> -->
 
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-akash-krishna&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Langs" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=b-akash-krishna&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <!-- Optional Add-ons -->
 <!--
@@ -80,6 +80,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b-akash-krishna&theme=react-dark" alt="Contribution Graph" />
 </p>
 -->
-
----
 
